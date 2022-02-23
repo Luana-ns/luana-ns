@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **data analysis.**
 
-- 🌱 I’m currently learning **Python, JavasSript, data analysis and Git.**
+- 🌱 I’m currently learning **Python, JavaScript, data analysis and Git.**
 
-- 💬 Ask me about **HTML5, CSS3, math.**
+- 💬 Ask me about **HTML5, CSS3, math...**
 
 - 📫 How to reach me: **lununes.s@outlook.com**
 
