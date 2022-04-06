@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luana!</h1>
 <h3 align="center">A passionate Software Engineer and Frontend Developer from Brazil.</h3>
 
-- 🔭 I’m currently working on **PodCodar.**
+- 🔭 I’m currently working on **Jusbrasil.**
 
 - 🌱 I’m currently learning **Python, JavaScript, data analysis and Git.**
 
