@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Luana!</h1>
+<h1 align="center">Hi 👋, I'm Luana!</h1> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 <h3 align="center">A passionate Software Engineer and Frontend Developer from Brazil.</h3>
+
 
 - 🔭 I’m currently working on **Jusbrasil.**
 
@@ -27,4 +31,10 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luana-ns&show_icons=true&title_color=dd6387&text_color=ffffff&bg_color=282a36&locale=en&layout=compact" alt="luana-ns" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luana-ns&show_icons=true&title_color=dd6387&text_color=ffffff&bg_color=282a36&locale=en" alt="luana-ns" /></p> --!>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
+
 
