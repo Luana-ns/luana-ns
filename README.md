@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [**Jusbrasil**](https://www.jusbrasil.com.br/).
 
-- 🌱 I’m currently learning **Python, JavaScript, data analysis and Git.**
+- 🌱 I’m currently learning **Python, TypeScript, NextJS and Database.**
 
 - 💬 Ask me about **HTML5, CSS3, math...**
 
